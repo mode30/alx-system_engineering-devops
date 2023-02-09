@@ -1,1 +1,1 @@
-nootempty
+#!/bin/bash
